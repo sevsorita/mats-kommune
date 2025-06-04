@@ -1,0 +1,358 @@
+﻿Nr [15][7];Kommunenavn;Admsenter;Fylke;Fulltadmsenter
+5620;Nordkapp;Honningsvåg;Finnmark;Honningsvåg, Nordkapp, Finnmark
+5626;Gamvik;Mehamn;Finnmark;Mehamn, Gamvik, Finnmark
+5618;Måsøy;Havøysund;Finnmark;Havøysund, Måsøy, Finnmark
+5630;Berlevåg;Berlevåg;Finnmark;Berlevåg, Berlevåg, Finnmark
+5624;Lebesby;Kjøllefjord;Finnmark;Kjøllefjord, Lebesby, Finnmark
+5632;Båtsfjord;Båtsfjord;Finnmark;Båtsfjord, Båtsfjord, Finnmark
+5603;Hammerfest;Hammerfest;Finnmark;Hammerfest, Hammerfest, Finnmark
+5616;Hasvik;Breivikbotn;Finnmark;Breivikbotn, Hasvik, Finnmark
+5634;Vardø;Vardø;Finnmark;Vardø, Vardø, Finnmark
+5628;Tana;Tana bru;Finnmark;Tana bru, Tana, Finnmark
+5614;Loppa;Øksfjord;Finnmark;Øksfjord, Loppa, Finnmark
+5622;Porsanger;Lakselv;Finnmark;Lakselv, Porsanger, Finnmark
+5636;Nesseby;Varangerbotn;Finnmark;Varangerbotn, Nesseby, Finnmark
+5607;Vadsø;Vadsø;Finnmark;Vadsø, Vadsø, Finnmark
+5542;Skjervøy;Skjervøy;Troms;Skjervøy, Skjervøy, Troms
+5534;Karlsøy;Hansnes;Troms;Hansnes, Karlsøy, Troms
+5601;Alta;Alta;Finnmark;Alta, Alta, Finnmark
+5546;Kvænangen;Burfjord;Troms;Burfjord, Kvænangen, Troms
+5544;Nordreisa;Storslett;Troms;Storslett, Nordreisa, Troms
+5605;Sør-Varanger;Kirkenes;Finnmark;Kirkenes, Sør-Varanger, Finnmark
+5501;Tromsø;Tromsø;Troms;Tromsø, Tromsø, Troms
+5536;Lyngen;Lyngseidet;Troms;Lyngseidet, Lyngen, Troms
+5540;Kåfjord;Olderdalen;Troms;Olderdalen, Kåfjord, Troms
+5610;Karasjok;Karasjok;Finnmark;Karasjok, Karasjok, Finnmark
+5538;Storfjord;Hatteng;Troms;Hatteng, Storfjord, Troms
+5530;Senja;Finnsnes;Troms;Finnsnes, Senja, Troms
+5532;Balsfjord;Storsteinnes;Troms;Storsteinnes, Balsfjord, Troms
+1871;Andøy;Andenes;Nordland;Andenes, Andøy, Nordland
+5526;Sørreisa;Sørreisa;Troms;Sørreisa, Sørreisa, Troms
+5612;Kautokeino;Kautokeino;Finnmark;Kautokeino, Kautokeino, Finnmark
+5524;Målselv;Moen;Troms;Moen, Målselv, Troms
+5528;Dyrøy;Brøstadbotn;Troms;Brøstadbotn, Dyrøy, Troms
+1868;Øksnes;Myre;Nordland;Myre, Øksnes, Nordland
+5522;Salangen;Sjøvegan;Troms;Sjøvegan, Salangen, Troms
+5520;Bardu;Setermoen;Troms;Setermoen, Bardu, Troms
+5514;Ibestad;Hamnvik;Troms;Hamnvik, Ibestad, Troms
+5503;Harstad;Harstad;Troms;Harstad, Harstad, Troms
+5518;Lavangen;Tennevoll;Troms;Tennevoll, Lavangen, Troms
+5510;Kvæfjord;Borkenes;Troms;Borkenes, Kvæfjord, Troms
+1870;Sortland;Sortland;Nordland;Sortland, Sortland, Nordland
+5516;Gratangen;Årstein;Troms;Årstein, Gratangen, Troms
+1576;Aure;Aure;Møre og Romsdal;Aure, Aure, Møre og Romsdal
+5512;Tjeldsund;Evenskjer;Troms;Evenskjer, Tjeldsund, Troms
+1866;Hadsel;Stokmarknes;Nordland;Stokmarknes, Hadsel, Nordland
+1853;Evenes;Bogen;Nordland;Bogen, Evenes, Nordland
+1851;Lødingen;Lødingen;Nordland;Lødingen, Lødingen, Nordland
+1806;Narvik;Narvik;Nordland;Narvik, Narvik, Nordland
+1865;Vågan;Svolvær;Nordland;Svolvær, Vågan, Nordland
+1528;Sykkylven;Aure;Møre og Romsdal;Aure, Sykkylven, Møre og Romsdal
+1859;Flakstad;Ramberg;Nordland;Ramberg, Flakstad, Nordland
+1875;Hamarøy;Oppeid;Nordland;Oppeid, Hamarøy, Nordland
+1874;Moskenes;Reine;Nordland;Reine, Moskenes, Nordland
+1848;Steigen;Leinesfjord;Nordland;Leinesfjord, Steigen, Nordland
+1857;Værøy;Sørland;Nordland;Sørland, Værøy, Nordland
+1856;Røst;Røstlandet;Nordland;Røstlandet, Røst, Nordland
+4646;Fjaler;Dale;Vestland;Dale, Fjaler, Vestland
+1804;Bodø;Bodø;Nordland;Bodø, Bodø, Nordland
+1841;Fauske;Fauske;Nordland;Fauske, Fauske, Nordland
+1838;Gildeskål;Inndyr;Nordland;Inndyr, Gildeskål, Nordland
+1840;Saltdal;Rognan;Nordland;Rognan, Saltdal, Nordland
+1839;Beiarn;Moldjord;Nordland;Moldjord, Beiarn, Nordland
+1837;Meløy;Ørnes;Nordland;Ørnes, Meløy, Nordland
+1836;Rødøy;Vågaholmen;Nordland;Vågaholmen, Rødøy, Nordland
+1835;Træna;Husøya;Nordland;Husøya, Træna, Nordland
+1834;Lurøy;Lurøy;Nordland;Lurøy, Lurøy, Nordland
+1833;Rana;Mo i Rana;Nordland;Mo i Rana, Rana, Nordland
+1828;Nesna;Nesna;Nordland;Nesna, Nesna, Nordland
+1827;Dønna;Solfjellsjøen;Nordland;Solfjellsjøen, Dønna, Nordland
+1832;Hemnes;Korgen;Nordland;Korgen, Hemnes, Nordland
+1822;Leirfjord;Leland;Nordland;Leland, Leirfjord, Nordland
+1818;Herøy;Silvalen;Nordland;Silvalen, Herøy, Nordland
+1820;Alstahaug;Sandnessjøen;Nordland;Sandnessjøen, Alstahaug, Nordland
+1824;Vefsn;Mosjøen;Nordland;Mosjøen, Vefsn, Nordland
+1816;Vevelstad;Vevelstad;Nordland;Vevelstad, Vevelstad, Nordland
+1815;Vega;Gladstad;Nordland;Gladstad, Vega, Nordland
+1826;Hattfjelldal;Hattfjelldal;Nordland;Hattfjelldal, Hattfjelldal, Nordland
+1813;Brønnøy;Brønnøysund;Nordland;Brønnøysund, Brønnøy, Nordland
+1825;Grane;Trofors;Nordland;Trofors, Grane, Nordland
+4628;Vaksdal;Dale;Vestland;Dale, Vaksdal, Vestland
+1811;Bindal;Terråk;Nordland;Terråk, Bindal, Nordland
+1860;Vestvågøy;Leknes;Nordland;Leknes, Vestvågøy, Nordland
+5060;Nærøysund;Rørvik;Trøndelag;Rørvik, Nærøysund, Trøndelag
+5043;Røyrvik;Røyrvik;Trøndelag;Røyrvik, Røyrvik, Trøndelag
+5044;Namsskogan;Namsskogan;Trøndelag;Namsskogan, Namsskogan, Trøndelag
+5046;Høylandet;Høylandet;Trøndelag;Høylandet, Høylandet, Trøndelag
+5049;Flatanger;Lauvsnes;Trøndelag;Lauvsnes, Flatanger, Trøndelag
+5047;Overhalla;Ranemsletta;Trøndelag;Ranemsletta, Overhalla, Trøndelag
+5045;Grong;Grong;Trøndelag;Grong, Grong, Trøndelag
+5007;Namsos;Namsos;Trøndelag;Namsos, Namsos, Trøndelag
+5042;Lierne;Lierne;Trøndelag;Lierne, Lierne, Trøndelag
+5020;Osen;Steinsdalen;Trøndelag;Steinsdalen, Osen, Trøndelag
+5041;Snåsa;Snåsa;Trøndelag;Snåsa, Snåsa, Trøndelag
+5052;Leka;Leknes;Trøndelag;Leknes, Leka, Trøndelag
+5006;Steinkjer;Steinkjer;Trøndelag;Steinkjer, Steinkjer, Trøndelag
+3414;Nord-Odal;Sand;Innlandet;Sand, Nord-Odal, Innlandet
+5038;Verdal;Verdalsøra;Trøndelag;Verdalsøra, Verdal, Trøndelag
+5014;Frøya;Sistranda;Trøndelag;Sistranda, Frøya, Trøndelag
+5057;Ørland;Brekstad;Trøndelag;Brekstad, Ørland, Trøndelag
+5037;Levanger;Levanger;Trøndelag;Levanger, Levanger, Trøndelag
+5054;Indre Fosen;Årnset;Trøndelag;Årnset, Indre Fosen, Trøndelag
+5036;Frosta;Frosta;Trøndelag;Frosta, Frosta, Trøndelag
+5056;Hitra;Fillan;Trøndelag;Fillan, Hitra, Trøndelag
+5035;Stjørdal;Stjørdalshalsen;Trøndelag;Stjørdalshalsen, Stjørdal, Trøndelag
+5034;Meråker;Midtbygda;Trøndelag;Midtbygda, Meråker, Trøndelag
+5031;Malvik;Hommelvik;Trøndelag;Hommelvik, Malvik, Trøndelag
+1573;Smøla;Hopen;Møre og Romsdal;Hopen, Smøla, Møre og Romsdal
+5001;Trondheim;Trondheim;Trøndelag;Trondheim, Trondheim, Trøndelag
+5029;Skaun;Børsa;Trøndelag;Børsa, Skaun, Trøndelag
+5059;Orkland;Orkanger;Trøndelag;Orkanger, Orkland, Trøndelag
+1134;Suldal;Sand;Rogaland;Sand, Suldal, Rogaland
+5055;Heim;Kyrksæterøra;Trøndelag;Kyrksæterøra, Heim, Trøndelag
+5032;Selbu;Mebond;Trøndelag;Mebond, Selbu, Trøndelag
+5028;Melhus;Melhus;Trøndelag;Melhus, Melhus, Trøndelag
+1505;Kristiansund;Kristiansund;Møre og Romsdal;Kristiansund, Kristiansund, Møre og Romsdal
+5061;Rindal;Rindal;Trøndelag[22];Rindal, Rindal, Trøndelag[22]
+1554;Averøy;Bruhagen;Møre og Romsdal;Bruhagen, Averøy, Møre og Romsdal
+1560;Tingvoll;Tingvoll;Møre og Romsdal;Tingvoll, Tingvoll, Møre og Romsdal
+1867;Bø;Straume;Nordland;Straume, Bø, Nordland
+1566;Surnadal;Skei;Møre og Romsdal;Skei, Surnadal, Møre og Romsdal
+5027;Midtre Gauldal;Støren;Trøndelag;Støren, Midtre Gauldal, Trøndelag
+1557;Gjemnes;Batnfjordsøra;Møre og Romsdal;Batnfjordsøra, Gjemnes, Møre og Romsdal
+1579;Hustadvika;Elnesvågen;Møre og Romsdal;Elnesvågen, Hustadvika, Møre og Romsdal
+5026;Holtålen;Ålen;Trøndelag;Ålen, Holtålen, Trøndelag
+5022;Rennebu;Berkåk;Trøndelag;Berkåk, Rennebu, Trøndelag
+1547;Aukra;Falkhytta;Møre og Romsdal;Falkhytta, Aukra, Møre og Romsdal
+1506;Molde;Molde;Møre og Romsdal;Molde, Molde, Møre og Romsdal
+1563;Sunndal;Sunndalsøra;Møre og Romsdal;Sunndalsøra, Sunndal, Møre og Romsdal
+5021;Oppdal;Oppdal;Trøndelag;Oppdal, Oppdal, Trøndelag
+5025;Røros;Røros;Trøndelag;Røros, Røros, Trøndelag
+1535;Vestnes;Vestnes;Møre og Romsdal;Vestnes, Vestnes, Møre og Romsdal
+1580;Haram;Brattvåg;Møre og Romsdal;Brattvåg, Haram, Møre og Romsdal
+1539;Rauma;Åndalsnes;Møre og Romsdal;Åndalsnes, Rauma, Møre og Romsdal
+1532;Giske;Valderøya;Møre og Romsdal;Valderøya, Giske, Møre og Romsdal
+1508;Ålesund;Ålesund;Møre og Romsdal;Ålesund, Ålesund, Møre og Romsdal
+3430;Os;Os;Innlandet;Os, Os, Innlandet
+1531;Sula;Langevåg;Møre og Romsdal;Langevåg, Sula, Møre og Romsdal
+4626;Øygarden;Straume;Vestland;Straume, Øygarden, Vestland
+3426;Tolga;Tolga;Innlandet;Tolga, Tolga, Innlandet
+1517;Hareid;Hareid;Møre og Romsdal;Hareid, Hareid, Møre og Romsdal
+1516;Ulstein;Ulsteinvik;Møre og Romsdal;Ulsteinvik, Ulstein, Møre og Romsdal
+1578;Fjord;Sylte;Møre og Romsdal;Sylte, Fjord, Møre og Romsdal
+1515;Herøy;Fosnavåg;Møre og Romsdal;Fosnavåg, Herøy, Møre og Romsdal
+3427;Tynset;Tynset;Innlandet;Tynset, Tynset, Innlandet
+1525;Stranda;Stranda;Møre og Romsdal;Stranda, Stranda, Møre og Romsdal
+1514;Sande;Larsnes;Møre og Romsdal;Larsnes, Sande, Møre og Romsdal
+1520;Ørsta;Ørsta;Møre og Romsdal;Ørsta, Ørsta, Møre og Romsdal
+3432;Lesja;Lesja;Innlandet;Lesja, Lesja, Innlandet
+3429;Folldal;Folldal;Innlandet;Folldal, Folldal, Innlandet
+3428;Alvdal;Alvdal;Innlandet;Alvdal, Alvdal, Innlandet
+1577;Volda;Volda;Møre og Romsdal;Volda, Volda, Møre og Romsdal
+1511;Vanylven;Fiskåbygd;Møre og Romsdal;Fiskåbygd, Vanylven, Møre og Romsdal
+3431;Dovre;Dovre;Innlandet;Dovre, Dovre, Innlandet
+4649;Stad;Nordfjordeid;Vestland;Nordfjordeid, Stad, Vestland
+3433;Skjåk;Bismo;Innlandet;Bismo, Skjåk, Innlandet
+4651;Stryn;Stryn;Vestland;Stryn, Stryn, Vestland
+3425;Engerdal;Engerdal;Innlandet;Engerdal, Engerdal, Innlandet
+3435;Vågå;Vågåmo;Innlandet;Vågåmo, Vågå, Innlandet
+4648;Bremanger;Svelgen;Vestland;Svelgen, Bremanger, Vestland
+3434;Lom;Fossbergom;Innlandet;Fossbergom, Lom, Innlandet
+3437;Sel;Otta;Innlandet;Otta, Sel, Innlandet
+3424;Rendalen;Bergset;Innlandet;Bergset, Rendalen, Innlandet
+4650;Gloppen;Sandane;Vestland;Sandane, Gloppen, Vestland
+4602;Kinn;Florø;Vestland;Florø, Kinn, Vestland
+3436;Nord-Fron;Vinstra;Innlandet;Vinstra, Nord-Fron, Innlandet
+3423;Stor-Elvdal;Koppang;Innlandet;Koppang, Stor-Elvdal, Innlandet
+3439;Ringebu;Vålebrua;Innlandet;Vålebrua, Ringebu, Innlandet
+3438;Sør-Fron;Hundorp;Innlandet;Hundorp, Sør-Fron, Innlandet
+4647;Sunnfjord;Førde;Vestland;Førde, Sunnfjord, Vestland
+4644;Luster;Gaupne;Vestland;Gaupne, Luster, Vestland
+4645;Askvoll;Askvoll;Vestland;Askvoll, Askvoll, Vestland
+3421;Trysil;Innbygda;Innlandet;Innbygda, Trysil, Innlandet
+1845;Sørfold;Straumen;Nordland;Straumen, Sørfold, Nordland
+4643;Årdal;Årdalstangen;Vestland;Årdalstangen, Årdal, Vestland
+3441;Gausdal;Segalstad bru;Innlandet;Segalstad bru, Gausdal, Innlandet
+3440;Øyer;Tingberg;Innlandet;Tingberg, Øyer, Innlandet
+4640;Sogndal;Sogndalsfjøra;Vestland;Sogndalsfjøra, Sogndal, Vestland
+3422;Åmot;Rena;Innlandet;Rena, Åmot, Innlandet
+3453;Øystre Slidre;Heggenes;Innlandet;Heggenes, Øystre Slidre, Innlandet
+3454;Vang;Vang;Innlandet;Vang, Vang, Innlandet
+4637;Hyllestad;Hyllestad;Vestland;Hyllestad, Hyllestad, Vestland
+4638;Høyanger;Høyanger;Vestland;Høyanger, Høyanger, Vestland
+3405;Lillehammer;Lillehammer;Innlandet;Lillehammer, Lillehammer, Innlandet
+4642;Lærdal;Lærdalsøyri;Vestland;Lærdalsøyri, Lærdal, Vestland
+4636;Solund;Hardbakke;Vestland;Hardbakke, Solund, Vestland
+4639;Vik;Vikøyri;Vestland;Vikøyri, Vik, Vestland
+3452;Vestre Slidre;Slidre;Innlandet;Slidre, Vestre Slidre, Innlandet
+3450;Etnedal;Bruflat;Innlandet;Bruflat, Etnedal, Innlandet
+3411;Ringsaker;Brumunddal;Innlandet;Brumunddal, Ringsaker, Innlandet
+4635;Gulen;Eivindvik;Vestland;Eivindvik, Gulen, Vestland
+3451;Nord-Aurdal;Fagernes;Innlandet;Fagernes, Nord-Aurdal, Innlandet
+3448;Nordre Land;Dokka;Innlandet;Dokka, Nordre Land, Innlandet
+3420;Elverum;Elverum;Innlandet;Elverum, Elverum, Innlandet
+4641;Aurland;Aurlandsvangen;Vestland;Aurlandsvangen, Aurland, Vestland
+3326;Hemsedal;Trøim;Buskerud;Trøim, Hemsedal, Buskerud
+3412;Løten;Løten;Innlandet;Løten, Løten, Innlandet
+4634;Masfjorden;Masfjordnes;Vestland;Masfjordnes, Masfjorden, Vestland
+4629;Modalen;Mo;Vestland;Mo, Modalen, Vestland
+3407;Gjøvik;Gjøvik;Innlandet;Gjøvik, Gjøvik, Innlandet
+3403;Hamar;Hamar;Innlandet;Hamar, Hamar, Innlandet
+4632;Austrheim;Årås;Vestland;Årås, Austrheim, Vestland
+4633;Fedje;Fedje;Vestland;Fedje, Fedje, Vestland
+3324;Gol;Gol;Buskerud;Gol, Gol, Buskerud
+3449;Sør-Aurdal;Bagn;Innlandet;Bagn, Sør-Aurdal, Innlandet
+3419;Våler;Våler;Innlandet;Våler, Våler, Innlandet
+3413;Stange;Stange;Innlandet;Stange, Stange, Innlandet
+3447;Søndre Land;Hov;Innlandet;Hov, Søndre Land, Innlandet
+3443;Vestre Toten;Raufoss;Innlandet;Raufoss, Vestre Toten, Innlandet
+3328;Ål;Ål;Buskerud;Ål, Ål, Buskerud
+4621;Voss;Vossevangen;Vestland;Vossevangen, Voss, Vestland
+3442;Østre Toten;Lena;Innlandet;Lena, Østre Toten, Innlandet
+4631;Alver;Knarvik;Vestland;Knarvik, Alver, Vestland
+3418;Åsnes;Flisa;Innlandet;Flisa, Åsnes, Innlandet
+5053;Inderøy;Straumen;Trøndelag;Straumen, Inderøy, Trøndelag
+4620;Ulvik;Ulvik;Vestland;Ulvik, Ulvik, Vestland
+3322;Nesbyen;Nesbyen;Buskerud;Nesbyen, Nesbyen, Buskerud
+3330;Hol;Hol;Buskerud;Hol, Hol, Buskerud
+4630;Osterøy;Lonevåg;Vestland;Lonevåg, Osterøy, Vestland
+3417;Grue;Kirkenær;Innlandet;Kirkenær, Grue, Innlandet
+4627;Askøy;Kleppestø;Vestland;Kleppestø, Askøy, Vestland
+3242;Hurdal;Hurdal;Akershus;Hurdal, Hurdal, Akershus
+4619;Eidfjord;Eidfjord;Vestland;Eidfjord, Eidfjord, Vestland
+1812;Sømna;Vik;Nordland;Vik, Sømna, Nordland
+3320;Flå;Flå;Buskerud;Flå, Flå, Buskerud
+3446;Gran;Jaren;Innlandet;Jaren, Gran, Innlandet
+4623;Samnanger;Tysse;Vestland;Tysse, Samnanger, Vestland
+4601;Bergen;Bergen;Vestland;Bergen, Bergen, Vestland
+3310;Hole;Vik;Buskerud;Vik, Hole, Buskerud
+4622;Kvam;Norheimsund;Vestland;Norheimsund, Kvam, Vestland
+3240;Eidsvoll;Eidsvoll;Akershus;Eidsvoll, Eidsvoll, Akershus
+3338;Nore og Uvdal;Rødberg;Buskerud;Rødberg, Nore og Uvdal, Buskerud
+3234;Lunner;Roa;Akershus;Roa, Lunner, Akershus
+3236;Jevnaker;Jevnaker;Akershus;Jevnaker, Jevnaker, Akershus
+3415;Sør-Odal;Skarnes;Innlandet;Skarnes, Sør-Odal, Innlandet
+3238;Nannestad;Teigebyen;Akershus;Teigebyen, Nannestad, Akershus
+3305;Ringerike;Hønefoss;Buskerud;Hønefoss, Ringerike, Buskerud
+3401;Kongsvinger;Kongsvinger;Innlandet;Kongsvinger, Kongsvinger, Innlandet
+3332;Sigdal;Prestfoss;Buskerud;Prestfoss, Sigdal, Buskerud
+4624;Bjørnafjorden;Osøyro;Vestland;Osøyro, Bjørnafjorden, Vestland
+3318;Krødsherad;Noresund;Buskerud;Noresund, Krødsherad, Buskerud
+3209;Ullensaker;Jessheim;Akershus;Jessheim, Ullensaker, Akershus
+5058;Åfjord;Årnes;Trøndelag;Årnes, Åfjord, Trøndelag
+4618;Ullensvang;Kinsarvik;Vestland;Kinsarvik, Ullensvang, Vestland
+3230;Gjerdrum;Ask;Akershus;Ask, Gjerdrum, Akershus
+3228;Nes;Årnes;Akershus;Årnes, Nes, Akershus
+4625;Austevoll;Storebø;Vestland;Storebø, Austevoll, Vestland
+3232;Nittedal;Rotnes;Akershus;Rotnes, Nittedal, Akershus
+3336;Rollag;Rollag;Buskerud;Rollag, Rollag, Buskerud
+4616;Tysnes;Uggdal;Vestland;Uggdal, Tysnes, Vestland
+3416;Eidskog;Skotterud;Innlandet;Skotterud, Eidskog, Innlandet
+3205;Lillestrøm;Lillestrøm;Akershus;Lillestrøm, Lillestrøm, Akershus
+3316;Modum;Vikersund;Buskerud;Vikersund, Modum, Buskerud
+4026;Tinn;Rjukan;Telemark;Rjukan, Tinn, Telemark
+3222;Lørenskog;Solheim;Akershus;Solheim, Lørenskog, Akershus
+3224;Rælingen;Fjerdingby;Akershus;Fjerdingby, Rælingen, Akershus
+3201;Bærum;Sandvika;Akershus;Sandvika, Bærum, Akershus
+301;Oslo;Oslo;Oslo;Oslo, Oslo, Oslo
+4615;Fitjar;Fitjar;Vestland;Fitjar, Fitjar, Vestland
+4617;Kvinnherad;Rosendal;Vestland;Rosendal, Kvinnherad, Vestland
+3226;Aurskog-Høland;Bjørkelangen;Akershus;Bjørkelangen, Aurskog-Høland, Akershus
+3334;Flesberg;Lampeland;Buskerud;Lampeland, Flesberg, Buskerud
+3212;Nesodden;Nesoddtangen;Akershus;Nesoddtangen, Nesodden, Akershus
+3312;Lier;Lierbyen;Buskerud;Lierbyen, Lier, Buskerud
+4614;Stord;Leirvik;Vestland;Leirvik, Stord, Vestland
+3220;Enebakk;Kirkebygda;Akershus;Kirkebygda, Enebakk, Akershus
+3203;Asker;Asker;Akershus;Asker, Asker, Akershus
+3314;Øvre Eiker;Hokksund;Buskerud;Hokksund, Øvre Eiker, Buskerud
+3207;Nordre Follo;Ski;Akershus;Ski, Nordre Follo, Akershus
+4613;Bømlo;Svortland;Vestland;Svortland, Bømlo, Vestland
+3301;Drammen;Drammen;Buskerud;Drammen, Drammen, Buskerud
+4036;Vinje;Åmot;Telemark;Åmot, Vinje, Telemark
+4024;Hjartdal;Sauland;Telemark;Sauland, Hjartdal, Telemark
+4611;Etne;Etnesjøen;Vestland;Etnesjøen, Etne, Vestland
+5033;Tydal;Ås;Trøndelag;Ås, Tydal, Trøndelag
+3214;Frogn;Drøbak;Akershus;Drøbak, Frogn, Akershus
+1135;Sauda;Sauda;Rogaland;Sauda, Sauda, Rogaland
+3303;Kongsberg;Kongsberg;Buskerud;Kongsberg, Kongsberg, Buskerud
+3118;Indre Østfold;Askim;Østfold;Askim, Indre Østfold, Østfold
+4005;Notodden;Notodden;Telemark;Notodden, Notodden, Telemark
+4612;Sveio;Sveio;Vestland;Sveio, Sveio, Vestland
+3216;Vestby;Vestby;Akershus;Vestby, Vestby, Akershus
+1160;Vindafjord;Ølensjøen;Rogaland;Ølensjøen, Vindafjord, Rogaland
+3903;Holmestrand;Holmestrand;Vestfold;Holmestrand, Holmestrand, Vestfold
+4022;Seljord;Seljord;Telemark;Seljord, Seljord, Telemark
+4222;Bykle;Bykle;Agder;Bykle, Bykle, Agder
+3122;Marker;Ørje;Østfold;Ørje, Marker, Østfold
+3116;Skiptvet;Meieribyen;Østfold;Meieribyen, Skiptvet, Østfold
+3114;Våler;Kirkebygden;Østfold;Kirkebygden, Våler, Østfold
+3218;Ås;Ås;Akershus;Ås, Ås, Akershus
+4034;Tokke;Dalen;Telemark;Dalen, Tokke, Telemark
+4020;Midt-Telemark;Bø;Telemark;Bø, Midt-Telemark, Telemark
+3103;Moss;Moss;Østfold;Moss, Moss, Østfold
+1106;Haugesund;Haugesund;Rogaland;Haugesund, Haugesund, Rogaland
+3120;Rakkestad;Rakkestad;Østfold;Rakkestad, Rakkestad, Østfold
+3901;Horten;Horten;Vestfold;Horten, Horten, Vestfold
+1146;Tysvær;Aksdal;Rogaland;Aksdal, Tysvær, Rogaland
+4028;Kviteseid;Kviteseid;Telemark;Kviteseid, Kviteseid, Telemark
+3112;Råde;Karlshus;Østfold;Karlshus, Råde, Østfold
+1151;Utsira;Utsira;Rogaland;Utsira, Utsira, Rogaland
+3905;Tønsberg;Tønsberg;Vestfold;Tønsberg, Tønsberg, Vestfold
+1149;Karmøy;Kopervik;Rogaland;Kopervik, Karmøy, Rogaland
+4018;Nome;Ulefoss;Telemark;Ulefoss, Nome, Telemark
+4010;Siljan;Siljan;Telemark;Siljan, Siljan, Telemark
+3105;Sarpsborg;Sarpsborg;Østfold;Sarpsborg, Sarpsborg, Østfold
+3124;Aremark;Fossby;Østfold;Fossby, Aremark, Østfold
+3107;Fredrikstad;Fredrikstad;Østfold;Fredrikstad, Fredrikstad, Østfold
+1145;Bokn;Føresvik;Rogaland;Føresvik, Bokn, Rogaland
+1133;Hjelmeland;Hjelmelandsvågen;Rogaland;Hjelmelandsvågen, Hjelmeland, Rogaland
+4003;Skien;Skien;Telemark;Skien, Skien, Telemark
+3911;Færder;Borgheim;Vestfold;Borgheim, Færder, Vestfold
+4221;Valle;Valle;Agder;Valle, Valle, Agder
+3907;Sandefjord;Sandefjord;Vestfold;Sandefjord, Sandefjord, Vestfold
+4032;Fyresdal;Folkestadbyen;Telemark;Folkestadbyen, Fyresdal, Telemark
+3101;Halden;Halden;Østfold;Halden, Halden, Østfold
+4001;Porsgrunn;Porsgrunn;Telemark;Porsgrunn, Porsgrunn, Telemark
+4016;Drangedal;Prestestranda;Telemark;Prestestranda, Drangedal, Telemark
+3909;Larvik;Larvik;Vestfold;Larvik, Larvik, Vestfold
+3110;Hvaler;Skjærhalden;Østfold;Skjærhalden, Hvaler, Østfold
+1144;Kvitsøy;Ydstebøhavn;Rogaland;Ydstebøhavn, Kvitsøy, Rogaland
+4030;Nissedal;Treungen;Telemark;Treungen, Nissedal, Telemark
+1130;Strand;Jørpeland;Rogaland;Jørpeland, Strand, Rogaland
+4012;Bamble;Langesund;Telemark;Langesund, Bamble, Telemark
+1127;Randaberg;Randaberg;Rogaland;Randaberg, Randaberg, Rogaland
+1103;Stavanger;Stavanger;Rogaland;Stavanger, Stavanger, Rogaland
+1124;Sola;Solakrossen;Rogaland;Solakrossen, Sola, Rogaland
+4014;Kragerø;Kragerø;Telemark;Kragerø, Kragerø, Telemark
+1108;Sandnes;Sandnes;Rogaland;Sandnes, Sandnes, Rogaland
+4211;Gjerstad;Gjerstad;Agder;Gjerstad, Gjerstad, Agder
+4228;Sirdal;Tonstad;Agder;Tonstad, Sirdal, Agder
+4220;Bygland;Bygland;Agder;Bygland, Bygland, Agder
+1122;Gjesdal;Ålgård;Rogaland;Ålgård, Gjesdal, Rogaland
+4217;Åmli;Åmli;Agder;Åmli, Åmli, Agder
+1120;Klepp;Kleppe;Rogaland;Kleppe, Klepp, Rogaland
+4212;Vegårshei;Myra;Agder;Myra, Vegårshei, Agder
+4224;Åseral;Kyrkjebygda;Agder;Kyrkjebygda, Åseral, Agder
+1121;Time;Bryne;Rogaland;Bryne, Time, Rogaland
+4201;Risør;Risør;Agder;Risør, Risør, Agder
+1114;Bjerkreim;Vikeså;Rogaland;Vikeså, Bjerkreim, Rogaland
+4213;Tvedestrand;Tvedestrand;Agder;Tvedestrand, Tvedestrand, Agder
+1119;Hå;Varhaug;Rogaland;Varhaug, Hå, Rogaland
+4219;Evje og Hornnes;Evje;Agder;Evje, Evje og Hornnes, Agder
+4214;Froland;Blakstad;Agder;Blakstad, Froland, Agder
+1112;Lund;Moi;Rogaland;Moi, Lund, Rogaland
+4203;Arendal;Arendal;Agder;Arendal, Arendal, Agder
+1101;Eigersund;Egersund;Rogaland;Egersund, Eigersund, Rogaland
+4218;Iveland;Birketveit;Agder;Birketveit, Iveland, Agder
+4226;Hægebostad;Tingvatn;Agder;Tingvatn, Hægebostad, Agder
+4216;Birkenes;Birkeland;Agder;Birkeland, Birkenes, Agder
+4227;Kvinesdal;Liknes;Agder;Liknes, Kvinesdal, Agder
+1111;Sokndal;Hauge;Rogaland;Hauge, Sokndal, Rogaland
+4202;Grimstad;Grimstad;Agder;Grimstad, Grimstad, Agder
+4207;Flekkefjord;Flekkefjord;Agder;Flekkefjord, Flekkefjord, Agder
+4223;Vennesla;Vennesla;Agder;Vennesla, Vennesla, Agder
+4215;Lillesand;Lillesand;Agder;Lillesand, Lillesand, Agder
+4225;Lyngdal;Alleen;Agder;Alleen, Lyngdal, Agder
+4204;Kristiansand;Kristiansand;Agder;Kristiansand, Kristiansand, Agder
+4206;Farsund;Farsund;Agder;Farsund, Farsund, Agder
+4205;Lindesnes;Mandal;Agder;Mandal, Lindesnes, Agder
