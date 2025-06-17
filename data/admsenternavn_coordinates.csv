@@ -1,0 +1,358 @@
+Nr [15][7];Kommunenavn;Admsenter;Fylke;Fulltadmsenter;lat;lng
+5620;Nordkapp;Honningsvåg;Finnmark;Honningsvåg, Nordkapp, Finnmark;70.9822909;25.9702074
+5626;Gamvik;Mehamn;Finnmark;Mehamn, Gamvik, Finnmark;71.0357069;27.848941
+5618;Måsøy;Havøysund;Finnmark;Havøysund, Måsøy, Finnmark;70.9976392;24.6639648
+5630;Berlevåg;Berlevåg;Finnmark;Berlevåg, Berlevåg, Finnmark;70.8580573;29.0858433
+5624;Lebesby;Kjøllefjord;Finnmark;Kjøllefjord, Lebesby, Finnmark;70.94576959999999;27.3467912
+5632;Båtsfjord;Båtsfjord;Finnmark;Båtsfjord, Båtsfjord, Finnmark;70.6345012;29.717845
+5603;Hammerfest;Hammerfest;Finnmark;Hammerfest, Hammerfest, Finnmark;70.66343820000002;23.6819665
+5616;Hasvik;Breivikbotn;Finnmark;Breivikbotn, Hasvik, Finnmark;70.58823029999999;22.2854438
+5634;Vardø;Vardø;Finnmark;Vardø, Vardø, Finnmark;70.3706399;31.1095471
+5628;Tana;Tana bru;Finnmark;Tana bru, Tana, Finnmark;70.1990847;28.1762324
+5614;Loppa;Øksfjord;Finnmark;Øksfjord, Loppa, Finnmark;70.23964620000001;22.3479396
+5622;Porsanger;Lakselv;Finnmark;Lakselv, Porsanger, Finnmark;70.0512597;24.9485869
+5636;Nesseby;Varangerbotn;Finnmark;Varangerbotn, Nesseby, Finnmark;70.1727828;28.5556762
+5607;Vadsø;Vadsø;Finnmark;Vadsø, Vadsø, Finnmark;70.0745056;29.7481181
+5542;Skjervøy;Skjervøy;Troms;Skjervøy, Skjervøy, Troms;70.0339919;20.9737453
+5534;Karlsøy;Hansnes;Troms;Hansnes, Karlsøy, Troms;69.9623672;19.6186194
+5601;Alta;Alta;Finnmark;Alta, Alta, Finnmark;69.96873760000001;23.2715496
+5546;Kvænangen;Burfjord;Troms;Burfjord, Kvænangen, Troms;69.9374457;22.04917
+5544;Nordreisa;Storslett;Troms;Storslett, Nordreisa, Troms;69.7677162;21.0369083
+5605;Sør-Varanger;Kirkenes;Finnmark;Kirkenes, Sør-Varanger, Finnmark;69.7269192;30.0450432
+5501;Tromsø;Tromsø;Troms;Tromsø, Tromsø, Troms;69.6492047;18.9553238
+5536;Lyngen;Lyngseidet;Troms;Lyngseidet, Lyngen, Troms;69.57633919999999;20.2187063
+5540;Kåfjord;Olderdalen;Troms;Olderdalen, Kåfjord, Troms;69.60406499999999;20.5327207
+5610;Karasjok;Karasjok;Finnmark;Karasjok, Karasjok, Finnmark;69.47193500000002;25.510813
+5538;Storfjord;Hatteng;Troms;Hatteng, Storfjord, Troms;69.27069709999999;19.9593591
+5530;Senja;Finnsnes;Troms;Finnsnes, Senja, Troms;69.232038;17.9808555
+5532;Balsfjord;Storsteinnes;Troms;Storsteinnes, Balsfjord, Troms;69.2408122;19.2343693
+1871;Andøy;Andenes;Nordland;Andenes, Andøy, Nordland;69.31607989999999;16.1202284
+5526;Sørreisa;Sørreisa;Troms;Sørreisa, Sørreisa, Troms;69.15179739999999;18.1688089
+5612;Kautokeino;Kautokeino;Finnmark;Kautokeino, Kautokeino, Finnmark;69.0180912;23.0470392
+5524;Målselv;Moen;Troms;Moen, Målselv, Troms;69.1305608;18.6120503
+5528;Dyrøy;Brøstadbotn;Troms;Brøstadbotn, Dyrøy, Troms;69.0885461;17.6927701
+1868;Øksnes;Myre;Nordland;Myre, Øksnes, Nordland;68.91532149999999;15.0794821
+5522;Salangen;Sjøvegan;Troms;Sjøvegan, Salangen, Troms;68.872627;17.8526431
+5520;Bardu;Setermoen;Troms;Setermoen, Bardu, Troms;68.8609596;18.3483185
+5514;Ibestad;Hamnvik;Troms;Hamnvik, Ibestad, Troms;68.7802291;17.1703879
+5503;Harstad;Harstad;Troms;Harstad, Harstad, Troms;68.7986342;16.5414503
+5518;Lavangen;Tennevoll;Troms;Tennevoll, Lavangen, Troms;68.746499;17.8061157
+5510;Kvæfjord;Borkenes;Troms;Borkenes, Kvæfjord, Troms;68.7755292;16.1765766
+1870;Sortland;Sortland;Nordland;Sortland, Sortland, Nordland;68.69588449999999;15.4051116
+5516;Gratangen;Årstein;Troms;Årstein, Gratangen, Troms;68.6905857;17.5426984
+1576;Aure;Aure;Møre og Romsdal;Aure, Aure, Møre og Romsdal;63.26611149999999;8.5299946
+5512;Tjeldsund;Evenskjer;Troms;Evenskjer, Tjeldsund, Troms;68.5887022;16.5691331
+1866;Hadsel;Stokmarknes;Nordland;Stokmarknes, Hadsel, Nordland;68.56483829999999;14.9098717
+1853;Evenes;Bogen;Nordland;Bogen, Evenes, Nordland;68.5187389;17.0031191
+1851;Lødingen;Lødingen;Nordland;Lødingen, Lødingen, Nordland;68.41415429999999;15.9943948
+1806;Narvik;Narvik;Nordland;Narvik, Narvik, Nordland;68.4384984;17.4272612
+1865;Vågan;Svolvær;Nordland;Svolvær, Vågan, Nordland;68.2343088;14.5682238
+1528;Sykkylven;Aure;Møre og Romsdal;Aure, Sykkylven, Møre og Romsdal;62.3910083;6.577794799999999
+1859;Flakstad;Ramberg;Nordland;Ramberg, Flakstad, Nordland;68.0894483;13.2294735
+1875;Hamarøy;Oppeid;Nordland;Oppeid, Hamarøy, Nordland;68.08475729999999;15.6086559
+1874;Moskenes;Reine;Nordland;Reine, Moskenes, Nordland;67.9323866;13.0887329
+1848;Steigen;Leinesfjord;Nordland;Leinesfjord, Steigen, Nordland;67.77599119999999;15.0156131
+1857;Værøy;Sørland;Nordland;Sørland, Værøy, Nordland;67.6635735;12.6926738
+1856;Røst;Røstlandet;Nordland;Røstlandet, Røst, Nordland;67.5175048;12.1175007
+4646;Fjaler;Dale;Vestland;Dale, Fjaler, Vestland;61.3587936;5.3973385
+1804;Bodø;Bodø;Nordland;Bodø, Bodø, Nordland;67.2803556;14.404916
+1841;Fauske;Fauske;Nordland;Fauske, Fauske, Nordland;67.2591843;15.3916322
+1838;Gildeskål;Inndyr;Nordland;Inndyr, Gildeskål, Nordland;67.0365716;14.0291607
+1840;Saltdal;Rognan;Nordland;Rognan, Saltdal, Nordland;67.095278;15.3877831
+1839;Beiarn;Moldjord;Nordland;Moldjord, Beiarn, Nordland;67.00638719999999;14.5772046
+1837;Meløy;Ørnes;Nordland;Ørnes, Meløy, Nordland;66.8680899;13.7084516
+1836;Rødøy;Vågaholmen;Nordland;Vågaholmen, Rødøy, Nordland;66.7136048;13.2874942
+1835;Træna;Husøya;Nordland;Husøya, Træna, Nordland;67.98560840000002;15.471475
+1834;Lurøy;Lurøy;Nordland;Lurøy, Lurøy, Nordland;66.419774;12.8559074
+1833;Rana;Mo i Rana;Nordland;Mo i Rana, Rana, Nordland;66.3137122;14.1419749
+1828;Nesna;Nesna;Nordland;Nesna, Nesna, Nordland;66.1980927;13.0181848
+1827;Dønna;Solfjellsjøen;Nordland;Solfjellsjøen, Dønna, Nordland;66.10799;12.4904644
+1832;Hemnes;Korgen;Nordland;Korgen, Hemnes, Nordland;66.0764129;13.8178555
+1822;Leirfjord;Leland;Nordland;Leland, Leirfjord, Nordland;66.0640033;12.9454198
+1818;Herøy;Silvalen;Nordland;Silvalen, Herøy, Nordland;65.9879382;12.2913878
+1820;Alstahaug;Sandnessjøen;Nordland;Sandnessjøen, Alstahaug, Nordland;66.0215534;12.6314628
+1824;Vefsn;Mosjøen;Nordland;Mosjøen, Vefsn, Nordland;65.836924;13.193401
+1816;Vevelstad;Vevelstad;Nordland;Vevelstad, Vevelstad, Nordland;65.7001732;12.4405787
+1815;Vega;Gladstad;Nordland;Gladstad, Vega, Nordland;65.6773245;11.9613707
+1826;Hattfjelldal;Hattfjelldal;Nordland;Hattfjelldal, Hattfjelldal, Nordland;65.5963652;13.9915498
+1813;Brønnøy;Brønnøysund;Nordland;Brønnøysund, Brønnøy, Nordland;65.4690529;12.2041695
+1825;Grane;Trofors;Nordland;Trofors, Grane, Nordland;65.5350526;13.4070111
+4628;Vaksdal;Dale;Vestland;Dale, Vaksdal, Vestland;60.5908792;5.8221393
+1811;Bindal;Terråk;Nordland;Terråk, Bindal, Nordland;65.0870006;12.3714797
+1860;Vestvågøy;Leknes;Nordland;Leknes, Vestvågøy, Nordland;68.1465068;13.6096372
+5060;Nærøysund;Rørvik;Trøndelag;Rørvik, Nærøysund, Trøndelag;64.8620756;11.2373375
+5043;Røyrvik;Røyrvik;Trøndelag;Røyrvik, Røyrvik, Trøndelag;64.8840161;13.5625541
+5044;Namsskogan;Namsskogan;Trøndelag;Namsskogan, Namsskogan, Trøndelag;64.9288584;13.1595423
+5046;Høylandet;Høylandet;Trøndelag;Høylandet, Høylandet, Trøndelag;64.6288703;12.3020622
+5049;Flatanger;Lauvsnes;Trøndelag;Lauvsnes, Flatanger, Trøndelag;64.5006135;10.8939629
+5047;Overhalla;Ranemsletta;Trøndelag;Ranemsletta, Overhalla, Trøndelag;64.4934979;11.9483243
+5045;Grong;Grong;Trøndelag;Grong, Grong, Trøndelag;64.4640041;12.3142996
+5007;Namsos;Namsos;Trøndelag;Namsos, Namsos, Trøndelag;64.4662906;11.4955928
+5042;Lierne;Lierne;Trøndelag;Lierne, Lierne, Trøndelag;64.3600142;13.7165103
+5020;Osen;Steinsdalen;Trøndelag;Steinsdalen, Osen, Trøndelag;64.29766430000001;10.5106221
+5041;Snåsa;Snåsa;Trøndelag;Snåsa, Snåsa, Trøndelag;64.2465027;12.3822602
+5052;Leka;Leknes;Trøndelag;Leknes, Leka, Trøndelag;65.0972817;11.701134
+5006;Steinkjer;Steinkjer;Trøndelag;Steinkjer, Steinkjer, Trøndelag;64.01501929999999;11.4952627
+3414;Nord-Odal;Sand;Innlandet;Sand, Nord-Odal, Innlandet;60.3961323;11.5418186
+5038;Verdal;Verdalsøra;Trøndelag;Verdalsøra, Verdal, Trøndelag;63.7933506;11.4815726
+5014;Frøya;Sistranda;Trøndelag;Sistranda, Frøya, Trøndelag;63.7278502;8.831325399999999
+5057;Ørland;Brekstad;Trøndelag;Brekstad, Ørland, Trøndelag;63.6862525;9.6623489
+5037;Levanger;Levanger;Trøndelag;Levanger, Levanger, Trøndelag;63.7463571;11.3004934
+5054;Indre Fosen;Årnset;Trøndelag;Årnset, Indre Fosen, Trøndelag;63.58438419999999;9.9594949
+5036;Frosta;Frosta;Trøndelag;Frosta, Frosta, Trøndelag;63.583683;10.760819
+5056;Hitra;Fillan;Trøndelag;Fillan, Hitra, Trøndelag;63.6066075;8.9675537
+5035;Stjørdal;Stjørdalshalsen;Trøndelag;Stjørdalshalsen, Stjørdal, Trøndelag;63.4712373;10.9188902
+5034;Meråker;Midtbygda;Trøndelag;Midtbygda, Meråker, Trøndelag;63.41399749999999;11.7428655
+5031;Malvik;Hommelvik;Trøndelag;Hommelvik, Malvik, Trøndelag;63.4108294;10.7942419
+1573;Smøla;Hopen;Møre og Romsdal;Hopen, Smøla, Møre og Romsdal;63.4632219;8.0159715
+5001;Trondheim;Trondheim;Trøndelag;Trondheim, Trondheim, Trøndelag;63.4305149;10.3950528
+5029;Skaun;Børsa;Trøndelag;Børsa, Skaun, Trøndelag;63.32679829999999;10.0693321
+5059;Orkland;Orkanger;Trøndelag;Orkanger, Orkland, Trøndelag;63.2999528;9.846820000000001
+1134;Suldal;Sand;Rogaland;Sand, Suldal, Rogaland;59.48466430000001;6.251280700000001
+5055;Heim;Kyrksæterøra;Trøndelag;Kyrksæterøra, Heim, Trøndelag;63.292781;9.0826007
+5032;Selbu;Mebond;Trøndelag;Mebond, Selbu, Trøndelag;63.21923950000001;11.041315
+5028;Melhus;Melhus;Trøndelag;Melhus, Melhus, Trøndelag;63.28554239999999;10.2781422
+1505;Kristiansund;Kristiansund;Møre og Romsdal;Kristiansund, Kristiansund, Møre og Romsdal;63.11033459999999;7.728078999999999
+5061;Rindal;Rindal;Trøndelag[22];Rindal, Rindal, Trøndelag[22];63.05674190000001;9.212157699999999
+1554;Averøy;Bruhagen;Møre og Romsdal;Bruhagen, Averøy, Møre og Romsdal;63.0517172;7.6320419
+1560;Tingvoll;Tingvoll;Møre og Romsdal;Tingvoll, Tingvoll, Møre og Romsdal;62.91318889999999;8.2056313
+1867;Bø;Straume;Nordland;Straume, Bø, Nordland;68.687698;14.4829185
+1566;Surnadal;Skei;Møre og Romsdal;Skei, Surnadal, Møre og Romsdal;62.9737894;8.7264947
+5027;Midtre Gauldal;Støren;Trøndelag;Støren, Midtre Gauldal, Trøndelag;63.0382262;10.286986
+1557;Gjemnes;Batnfjordsøra;Møre og Romsdal;Batnfjordsøra, Gjemnes, Møre og Romsdal;62.89271429999999;7.681804699999999
+1579;Hustadvika;Elnesvågen;Møre og Romsdal;Elnesvågen, Hustadvika, Møre og Romsdal;62.85428870000001;7.1376221
+5026;Holtålen;Ålen;Trøndelag;Ålen, Holtålen, Trøndelag;62.8428497;11.2999297
+5022;Rennebu;Berkåk;Trøndelag;Berkåk, Rennebu, Trøndelag;62.8249533;10.0117697
+1547;Aukra;Falkhytta;Møre og Romsdal;Falkhytta, Aukra, Møre og Romsdal;62.80591;6.887499999999999
+1506;Molde;Molde;Møre og Romsdal;Molde, Molde, Møre og Romsdal;62.7402591;7.1808245
+1563;Sunndal;Sunndalsøra;Møre og Romsdal;Sunndalsøra, Sunndal, Møre og Romsdal;62.67351660000001;8.5661121
+5021;Oppdal;Oppdal;Trøndelag;Oppdal, Oppdal, Trøndelag;62.5941815;9.6912337
+5025;Røros;Røros;Trøndelag;Røros, Røros, Trøndelag;62.5748112;11.3841068
+1535;Vestnes;Vestnes;Møre og Romsdal;Vestnes, Vestnes, Møre og Romsdal;62.6259264;7.086719
+1580;Haram;Brattvåg;Møre og Romsdal;Brattvåg, Haram, Møre og Romsdal;62.5962346;6.4459551
+1539;Rauma;Åndalsnes;Møre og Romsdal;Åndalsnes, Rauma, Møre og Romsdal;62.56744610000001;7.68722
+1532;Giske;Valderøya;Møre og Romsdal;Valderøya, Giske, Møre og Romsdal;62.5107976;6.1084025
+1508;Ålesund;Ålesund;Møre og Romsdal;Ålesund, Ålesund, Møre og Romsdal;62.47222840000001;6.149482
+3430;Os;Os;Innlandet;Os, Os, Innlandet;62.48239650000001;11.2394763
+1531;Sula;Langevåg;Møre og Romsdal;Langevåg, Sula, Møre og Romsdal;62.44078469999999;6.1915121
+4626;Øygarden;Straume;Vestland;Straume, Øygarden, Vestland;60.3571261;5.1242731
+3426;Tolga;Tolga;Innlandet;Tolga, Tolga, Innlandet;62.4089307;10.99893
+1517;Hareid;Hareid;Møre og Romsdal;Hareid, Hareid, Møre og Romsdal;62.3717009;6.0287332
+1516;Ulstein;Ulsteinvik;Møre og Romsdal;Ulsteinvik, Ulstein, Møre og Romsdal;62.3433146;5.8488429
+1578;Fjord;Sylte;Møre og Romsdal;Sylte, Fjord, Møre og Romsdal;62.3003856;7.2615269
+1515;Herøy;Fosnavåg;Møre og Romsdal;Fosnavåg, Herøy, Møre og Romsdal;62.3413767;5.631069
+3427;Tynset;Tynset;Innlandet;Tynset, Tynset, Innlandet;62.27597149999999;10.7825389
+1525;Stranda;Stranda;Møre og Romsdal;Stranda, Stranda, Møre og Romsdal;62.3091141;6.9424091
+1514;Sande;Larsnes;Møre og Romsdal;Larsnes, Sande, Møre og Romsdal;62.20655490000001;5.572011
+1520;Ørsta;Ørsta;Møre og Romsdal;Ørsta, Ørsta, Møre og Romsdal;62.1981333;6.127590199999999
+3432;Lesja;Lesja;Innlandet;Lesja, Lesja, Innlandet;62.11841510000001;8.8633475
+3429;Folldal;Folldal;Innlandet;Folldal, Folldal, Innlandet;62.13245779999999;9.9967955
+3428;Alvdal;Alvdal;Innlandet;Alvdal, Alvdal, Innlandet;62.1085597;10.6340715
+1577;Volda;Volda;Møre og Romsdal;Volda, Volda, Møre og Romsdal;62.1452551;6.0747977
+1511;Vanylven;Fiskåbygd;Møre og Romsdal;Fiskåbygd, Vanylven, Møre og Romsdal;62.100751;5.5581169
+3431;Dovre;Dovre;Innlandet;Dovre, Dovre, Innlandet;61.9866693;9.2496865
+4649;Stad;Nordfjordeid;Vestland;Nordfjordeid, Stad, Vestland;61.9120409;5.985717999999999
+3433;Skjåk;Bismo;Innlandet;Bismo, Skjåk, Innlandet;61.8811642;8.2688756
+4651;Stryn;Stryn;Vestland;Stryn, Stryn, Vestland;61.9044329;6.7229249
+3425;Engerdal;Engerdal;Innlandet;Engerdal, Engerdal, Innlandet;61.7590681;11.9594542
+3435;Vågå;Vågåmo;Innlandet;Vågåmo, Vågå, Innlandet;61.87517010000001;9.0966266
+4648;Bremanger;Svelgen;Vestland;Svelgen, Bremanger, Vestland;61.7685237;5.2955095
+3434;Lom;Fossbergom;Innlandet;Fossbergom, Lom, Innlandet;61.83780729999999;8.5685637
+3437;Sel;Otta;Innlandet;Otta, Sel, Innlandet;61.77324040000001;9.5389584
+3424;Rendalen;Bergset;Innlandet;Bergset, Rendalen, Innlandet;61.4654725;11.3414611
+4650;Gloppen;Sandane;Vestland;Sandane, Gloppen, Vestland;61.77644600000001;6.216160599999999
+4602;Kinn;Florø;Vestland;Florø, Kinn, Vestland;61.59961910000001;5.0346663
+3436;Nord-Fron;Vinstra;Innlandet;Vinstra, Nord-Fron, Innlandet;61.59243439999999;9.756695599999999
+3423;Stor-Elvdal;Koppang;Innlandet;Koppang, Stor-Elvdal, Innlandet;61.5706544;11.055484
+3439;Ringebu;Vålebrua;Innlandet;Vålebrua, Ringebu, Innlandet;61.5291322;10.1458343
+3438;Sør-Fron;Hundorp;Innlandet;Hundorp, Sør-Fron, Innlandet;61.55522300000001;9.9407864
+4647;Sunnfjord;Førde;Vestland;Førde, Sunnfjord, Vestland;61.45357920000001;5.8496685
+4644;Luster;Gaupne;Vestland;Gaupne, Luster, Vestland;61.40830760000001;7.2855965
+4645;Askvoll;Askvoll;Vestland;Askvoll, Askvoll, Vestland;61.3467485;5.062018999999999
+3421;Trysil;Innbygda;Innlandet;Innbygda, Trysil, Innlandet;61.31483170000001;12.2636944
+1845;Sørfold;Straumen;Nordland;Straumen, Sørfold, Nordland;67.3480505;15.597305
+4643;Årdal;Årdalstangen;Vestland;Årdalstangen, Årdal, Vestland;61.239558;7.7121033
+3441;Gausdal;Segalstad bru;Innlandet;Segalstad bru, Gausdal, Innlandet;61.22675169999999;10.2288915
+3440;Øyer;Tingberg;Innlandet;Tingberg, Øyer, Innlandet;61.2631681;10.4165372
+4640;Sogndal;Sogndalsfjøra;Vestland;Sogndalsfjøra, Sogndal, Vestland;61.2272256;7.0992124
+3422;Åmot;Rena;Innlandet;Rena, Åmot, Innlandet;61.1313062;11.366369
+3453;Øystre Slidre;Heggenes;Innlandet;Heggenes, Øystre Slidre, Innlandet;61.1438322;9.0694182
+3454;Vang;Vang;Innlandet;Vang, Vang, Innlandet;61.1250695;8.569766
+4637;Hyllestad;Hyllestad;Vestland;Hyllestad, Hyllestad, Vestland;61.1711685;5.296168
+4638;Høyanger;Høyanger;Vestland;Høyanger, Høyanger, Vestland;61.2200648;6.0757442
+3405;Lillehammer;Lillehammer;Innlandet;Lillehammer, Lillehammer, Innlandet;61.1152713;10.4662306
+4642;Lærdal;Lærdalsøyri;Vestland;Lærdalsøyri, Lærdal, Vestland;61.09865490000001;7.4815786
+4636;Solund;Hardbakke;Vestland;Hardbakke, Solund, Vestland;61.0740153;4.840370099999999
+4639;Vik;Vikøyri;Vestland;Vikøyri, Vik, Vestland;61.0884893;6.580473899999999
+3452;Vestre Slidre;Slidre;Innlandet;Slidre, Vestre Slidre, Innlandet;61.08809559999999;8.9817451
+3450;Etnedal;Bruflat;Innlandet;Bruflat, Etnedal, Innlandet;60.8877572;9.6397173
+3411;Ringsaker;Brumunddal;Innlandet;Brumunddal, Ringsaker, Innlandet;60.88520010000001;10.9436044
+4635;Gulen;Eivindvik;Vestland;Eivindvik, Gulen, Vestland;60.9815455;5.0711678
+3451;Nord-Aurdal;Fagernes;Innlandet;Fagernes, Nord-Aurdal, Innlandet;60.9858348;9.232359899999999
+3448;Nordre Land;Dokka;Innlandet;Dokka, Nordre Land, Innlandet;60.8382077;10.0650422
+3420;Elverum;Elverum;Innlandet;Elverum, Elverum, Innlandet;60.88207250000001;11.5624678
+4641;Aurland;Aurlandsvangen;Vestland;Aurlandsvangen, Aurland, Vestland;60.90713849999999;7.188547999999999
+3326;Hemsedal;Trøim;Buskerud;Trøim, Hemsedal, Buskerud;60.86306479999999;8.552375999999999
+3412;Løten;Løten;Innlandet;Løten, Løten, Innlandet;60.81957019999999;11.342102
+4634;Masfjorden;Masfjordnes;Vestland;Masfjordnes, Masfjorden, Vestland;60.79446040000001;5.297197199999999
+4629;Modalen;Mo;Vestland;Mo, Modalen, Vestland;60.8161648;5.805797
+3407;Gjøvik;Gjøvik;Innlandet;Gjøvik, Gjøvik, Innlandet;60.7954302;10.6916303
+3403;Hamar;Hamar;Innlandet;Hamar, Hamar, Innlandet;60.7945331;11.0679977
+4632;Austrheim;Årås;Vestland;Årås, Austrheim, Vestland;60.77731009999999;4.9329065
+4633;Fedje;Fedje;Vestland;Fedje, Fedje, Vestland;60.7788987;4.714893099999999
+3324;Gol;Gol;Buskerud;Gol, Gol, Buskerud;60.7015342;8.945296400000002
+3449;Sør-Aurdal;Bagn;Innlandet;Bagn, Sør-Aurdal, Innlandet;60.8224904;9.552072299999999
+3419;Våler;Våler;Innlandet;Våler, Våler, Innlandet;60.67116559999999;11.8346464
+3413;Stange;Stange;Innlandet;Stange, Stange, Innlandet;60.717457;11.1935903
+3447;Søndre Land;Hov;Innlandet;Hov, Søndre Land, Innlandet;60.6987031;10.3519345
+3443;Vestre Toten;Raufoss;Innlandet;Raufoss, Vestre Toten, Innlandet;60.7293838;10.616415
+3328;Ål;Ål;Buskerud;Ål, Ål, Buskerud;60.63023870000001;8.5606663
+4621;Voss;Vossevangen;Vestland;Vossevangen, Voss, Vestland;60.6295624;6.422151200000001
+3442;Østre Toten;Lena;Innlandet;Lena, Østre Toten, Innlandet;60.6739876;10.8134211
+4631;Alver;Knarvik;Vestland;Knarvik, Alver, Vestland;60.54539149999999;5.2822469
+3418;Åsnes;Flisa;Innlandet;Flisa, Åsnes, Innlandet;60.6131699;12.0107576
+5053;Inderøy;Straumen;Trøndelag;Straumen, Inderøy, Trøndelag;63.8762472;11.2931414
+4620;Ulvik;Ulvik;Vestland;Ulvik, Ulvik, Vestland;60.5692306;6.916875099999999
+3322;Nesbyen;Nesbyen;Buskerud;Nesbyen, Nesbyen, Buskerud;60.5680861;9.1027428
+3330;Hol;Hol;Buskerud;Hol, Hol, Buskerud;60.6152252;8.294020999999999
+4630;Osterøy;Lonevåg;Vestland;Lonevåg, Osterøy, Vestland;60.5261874;5.493676199999999
+3417;Grue;Kirkenær;Innlandet;Kirkenær, Grue, Innlandet;60.4577642;12.0604581
+4627;Askøy;Kleppestø;Vestland;Kleppestø, Askøy, Vestland;60.41071830000001;5.2258428
+3242;Hurdal;Hurdal;Akershus;Hurdal, Hurdal, Akershus;60.43588799999999;11.0661291
+4619;Eidfjord;Eidfjord;Vestland;Eidfjord, Eidfjord, Vestland;60.466629;7.0685183
+1812;Sømna;Vik;Nordland;Vik, Sømna, Nordland;65.30919430000002;12.1672573
+3320;Flå;Flå;Buskerud;Flå, Flå, Buskerud;60.4302088;9.4619752
+3446;Gran;Jaren;Innlandet;Jaren, Gran, Innlandet;60.3990561;10.5525322
+4623;Samnanger;Tysse;Vestland;Tysse, Samnanger, Vestland;60.37745169999999;5.7629231
+4601;Bergen;Bergen;Vestland;Bergen, Bergen, Vestland;60.39126279999999;5.3220544
+3310;Hole;Vik;Buskerud;Vik, Hole, Buskerud;60.0773399;10.2811621
+4622;Kvam;Norheimsund;Vestland;Norheimsund, Kvam, Vestland;60.3708869;6.145635
+3240;Eidsvoll;Eidsvoll;Akershus;Eidsvoll, Eidsvoll, Akershus;60.33111570000001;11.2626149
+3338;Nore og Uvdal;Rødberg;Buskerud;Rødberg, Nore og Uvdal, Buskerud;60.2672173;8.947213399999999
+3234;Lunner;Roa;Akershus;Roa, Lunner, Akershus;60.2909255;10.615852
+3236;Jevnaker;Jevnaker;Akershus;Jevnaker, Jevnaker, Akershus;60.2407558;10.3834786
+3415;Sør-Odal;Skarnes;Innlandet;Skarnes, Sør-Odal, Innlandet;60.2528412;11.6797439
+3238;Nannestad;Teigebyen;Akershus;Teigebyen, Nannestad, Akershus;60.2215473;11.0186684
+3305;Ringerike;Hønefoss;Buskerud;Hønefoss, Ringerike, Buskerud;60.16822250000001;10.2564172
+3401;Kongsvinger;Kongsvinger;Innlandet;Kongsvinger, Kongsvinger, Innlandet;60.192443;11.9986692
+3332;Sigdal;Prestfoss;Buskerud;Prestfoss, Sigdal, Buskerud;60.0425025;9.6345225
+4624;Bjørnafjorden;Osøyro;Vestland;Osøyro, Bjørnafjorden, Vestland;60.18471659999999;5.469273400000001
+3318;Krødsherad;Noresund;Buskerud;Noresund, Krødsherad, Buskerud;60.1803077;9.623098899999999
+3209;Ullensaker;Jessheim;Akershus;Jessheim, Ullensaker, Akershus;60.14758189999999;11.169393
+5058;Åfjord;Årnes;Trøndelag;Årnes, Åfjord, Trøndelag;63.960601;10.2247657
+4618;Ullensvang;Kinsarvik;Vestland;Kinsarvik, Ullensvang, Vestland;60.3756655;6.7225392
+3230;Gjerdrum;Ask;Akershus;Ask, Gjerdrum, Akershus;60.07165739999999;11.0345246
+3228;Nes;Årnes;Akershus;Årnes, Nes, Akershus;60.12105010000001;11.4663429
+4625;Austevoll;Storebø;Vestland;Storebø, Austevoll, Vestland;60.1003406;5.2240163
+3232;Nittedal;Rotnes;Akershus;Rotnes, Nittedal, Akershus;60.05321619999999;10.8702921
+3336;Rollag;Rollag;Buskerud;Rollag, Rollag, Buskerud;59.9852113;9.3028288
+4616;Tysnes;Uggdal;Vestland;Uggdal, Tysnes, Vestland;60.0091729;5.4999136
+3416;Eidskog;Skotterud;Innlandet;Skotterud, Eidskog, Innlandet;59.982812;12.1282523
+3205;Lillestrøm;Lillestrøm;Akershus;Lillestrøm, Lillestrøm, Akershus;59.9559696;11.0503785
+3316;Modum;Vikersund;Buskerud;Vikersund, Modum, Buskerud;59.965984;9.9949741
+4026;Tinn;Rjukan;Telemark;Rjukan, Tinn, Telemark;59.87924270000001;8.6117346
+3222;Lørenskog;Solheim;Akershus;Solheim, Lørenskog, Akershus;59.924089;10.9554452
+3224;Rælingen;Fjerdingby;Akershus;Fjerdingby, Rælingen, Akershus;59.9216918;11.0737051
+3201;Bærum;Sandvika;Akershus;Sandvika, Bærum, Akershus;59.8909053;10.5277867
+301;Oslo;Oslo;Oslo;Oslo, Oslo, Oslo;59.9138688;10.7522454
+4615;Fitjar;Fitjar;Vestland;Fitjar, Fitjar, Vestland;59.9177362;5.317097599999999
+4617;Kvinnherad;Rosendal;Vestland;Rosendal, Kvinnherad, Vestland;59.9858956;6.0115683
+3226;Aurskog-Høland;Bjørkelangen;Akershus;Bjørkelangen, Aurskog-Høland, Akershus;59.8835499;11.5661052
+3334;Flesberg;Lampeland;Buskerud;Lampeland, Flesberg, Buskerud;59.83485810000001;9.5791209
+3212;Nesodden;Nesoddtangen;Akershus;Nesoddtangen, Nesodden, Akershus;59.8661741;10.6623629
+3312;Lier;Lierbyen;Buskerud;Lierbyen, Lier, Buskerud;59.7873115;10.2457255
+4614;Stord;Leirvik;Vestland;Leirvik, Stord, Vestland;59.7806971;5.500206500000001
+3220;Enebakk;Kirkebygda;Akershus;Kirkebygda, Enebakk, Akershus;59.76369709999999;11.1459829
+3203;Asker;Asker;Akershus;Asker, Asker, Akershus;59.8346001;10.4365687
+3314;Øvre Eiker;Hokksund;Buskerud;Hokksund, Øvre Eiker, Buskerud;59.7707469;9.910865099999999
+3207;Nordre Follo;Ski;Akershus;Ski, Nordre Follo, Akershus;59.7196318;10.8358795
+4613;Bømlo;Svortland;Vestland;Svortland, Bømlo, Vestland;59.79364859999999;5.1909714
+3301;Drammen;Drammen;Buskerud;Drammen, Drammen, Buskerud;59.7440738;10.2044564
+4036;Vinje;Åmot;Telemark;Åmot, Vinje, Telemark;59.57135710000001;7.987740199999999
+4024;Hjartdal;Sauland;Telemark;Sauland, Hjartdal, Telemark;59.616097;8.9375518
+4611;Etne;Etnesjøen;Vestland;Etnesjøen, Etne, Vestland;59.66534619999999;5.9371947
+5033;Tydal;Ås;Trøndelag;Ås, Tydal, Trøndelag;63.04488509999999;11.6569987
+3214;Frogn;Drøbak;Akershus;Drøbak, Frogn, Akershus;59.6633327;10.6307414
+1135;Sauda;Sauda;Rogaland;Sauda, Sauda, Rogaland;59.6507178;6.3541435
+3303;Kongsberg;Kongsberg;Buskerud;Kongsberg, Kongsberg, Buskerud;59.6721147;9.6460432
+3118;Indre Østfold;Askim;Østfold;Askim, Indre Østfold, Østfold;59.5834589;11.1629005
+4005;Notodden;Notodden;Telemark;Notodden, Notodden, Telemark;59.5592778;9.2628376
+4612;Sveio;Sveio;Vestland;Sveio, Sveio, Vestland;59.54350889999999;5.353107899999999
+3216;Vestby;Vestby;Akershus;Vestby, Vestby, Akershus;59.6024843;10.7468662
+1160;Vindafjord;Ølensjøen;Rogaland;Ølensjøen, Vindafjord, Rogaland;59.60436839999999;5.808004599999999
+3903;Holmestrand;Holmestrand;Vestfold;Holmestrand, Holmestrand, Vestfold;59.4899189;10.315035
+4022;Seljord;Seljord;Telemark;Seljord, Seljord, Telemark;59.4836751;8.6269273
+4222;Bykle;Bykle;Agder;Bykle, Bykle, Agder;59.3568873;7.357461499999999
+3122;Marker;Ørje;Østfold;Ørje, Marker, Østfold;59.4805101;11.6602541
+3116;Skiptvet;Meieribyen;Østfold;Meieribyen, Skiptvet, Østfold;59.4746308;11.1611342
+3114;Våler;Kirkebygden;Østfold;Kirkebygden, Våler, Østfold;59.4902451;10.8736692
+3218;Ås;Ås;Akershus;Ås, Ås, Akershus;59.6660615;10.7925637
+4034;Tokke;Dalen;Telemark;Dalen, Tokke, Telemark;59.4450745;8.0053846
+4020;Midt-Telemark;Bø;Telemark;Bø, Midt-Telemark, Telemark;59.4142899;9.0619757
+3103;Moss;Moss;Østfold;Moss, Moss, Østfold;59.4340914;10.6583833
+1106;Haugesund;Haugesund;Rogaland;Haugesund, Haugesund, Rogaland;59.41358100000001;5.267986899999999
+3120;Rakkestad;Rakkestad;Østfold;Rakkestad, Rakkestad, Østfold;59.42554639999999;11.3430389
+3901;Horten;Horten;Vestfold;Horten, Horten, Vestfold;59.417084;10.4832128
+1146;Tysvær;Aksdal;Rogaland;Aksdal, Tysvær, Rogaland;59.424449;5.449296299999999
+4028;Kviteseid;Kviteseid;Telemark;Kviteseid, Kviteseid, Telemark;59.4021367;8.4923152
+3112;Råde;Karlshus;Østfold;Karlshus, Råde, Østfold;59.3519742;10.8643231
+1151;Utsira;Utsira;Rogaland;Utsira, Utsira, Rogaland;59.30812889999999;4.8820629
+3905;Tønsberg;Tønsberg;Vestfold;Tønsberg, Tønsberg, Vestfold;59.26756990000001;10.4075608
+1149;Karmøy;Kopervik;Rogaland;Kopervik, Karmøy, Rogaland;59.2837067;5.306873899999999
+4018;Nome;Ulefoss;Telemark;Ulefoss, Nome, Telemark;59.28382300000001;9.264595
+4010;Siljan;Siljan;Telemark;Siljan, Siljan, Telemark;59.2875807;9.7086395
+3105;Sarpsborg;Sarpsborg;Østfold;Sarpsborg, Sarpsborg, Østfold;59.28407290000001;11.1094028
+3124;Aremark;Fossby;Østfold;Fossby, Aremark, Østfold;59.2221825;11.6992843
+3107;Fredrikstad;Fredrikstad;Østfold;Fredrikstad, Fredrikstad, Østfold;59.22053689999999;10.9347012
+1145;Bokn;Føresvik;Rogaland;Føresvik, Bokn, Rogaland;59.2288176;5.4411258
+1133;Hjelmeland;Hjelmelandsvågen;Rogaland;Hjelmelandsvågen, Hjelmeland, Rogaland;59.2329017;6.1722997
+4003;Skien;Skien;Telemark;Skien, Skien, Telemark;59.2089131;9.605752599999999
+3911;Færder;Borgheim;Vestfold;Borgheim, Færder, Vestfold;59.22627699999999;10.4074325
+4221;Valle;Valle;Agder;Valle, Valle, Agder;59.2130095;7.536060099999999
+3907;Sandefjord;Sandefjord;Vestfold;Sandefjord, Sandefjord, Vestfold;59.1313095;10.2165948
+4032;Fyresdal;Folkestadbyen;Telemark;Folkestadbyen, Fyresdal, Telemark;59.1842514;8.084625299999999
+3101;Halden;Halden;Østfold;Halden, Halden, Østfold;59.13299639999999;11.3874569
+4001;Porsgrunn;Porsgrunn;Telemark;Porsgrunn, Porsgrunn, Telemark;59.1385567;9.6555147
+4016;Drangedal;Prestestranda;Telemark;Prestestranda, Drangedal, Telemark;59.09771300000001;9.058708800000002
+3909;Larvik;Larvik;Vestfold;Larvik, Larvik, Vestfold;59.0538363;10.0295463
+3110;Hvaler;Skjærhalden;Østfold;Skjærhalden, Hvaler, Østfold;59.0252588;11.0368498
+1144;Kvitsøy;Ydstebøhavn;Rogaland;Ydstebøhavn, Kvitsøy, Rogaland;59.06222089999999;5.402396
+4030;Nissedal;Treungen;Telemark;Treungen, Nissedal, Telemark;59.02064710000001;8.520207
+1130;Strand;Jørpeland;Rogaland;Jørpeland, Strand, Rogaland;59.0241523;6.043277
+4012;Bamble;Langesund;Telemark;Langesund, Bamble, Telemark;59.0024183;9.7455904
+1127;Randaberg;Randaberg;Rogaland;Randaberg, Randaberg, Rogaland;58.99967460000001;5.6187068
+1103;Stavanger;Stavanger;Rogaland;Stavanger, Stavanger, Rogaland;58.9699756;5.7331073
+1124;Sola;Solakrossen;Rogaland;Solakrossen, Sola, Rogaland;58.8887958;5.6530475
+4014;Kragerø;Kragerø;Telemark;Kragerø, Kragerø, Telemark;58.8694218;9.4148661
+1108;Sandnes;Sandnes;Rogaland;Sandnes, Sandnes, Rogaland;58.8532585;5.7329455
+4211;Gjerstad;Gjerstad;Agder;Gjerstad, Gjerstad, Agder;58.8783074;9.0191599
+4228;Sirdal;Tonstad;Agder;Tonstad, Sirdal, Agder;58.6642215;6.7165165
+4220;Bygland;Bygland;Agder;Bygland, Bygland, Agder;58.83146279999999;7.798642900000001
+1122;Gjesdal;Ålgård;Rogaland;Ålgård, Gjesdal, Rogaland;58.7650356;5.8542288
+4217;Åmli;Åmli;Agder;Åmli, Åmli, Agder;58.7684458;8.4865146
+1120;Klepp;Kleppe;Rogaland;Kleppe, Klepp, Rogaland;58.77263099999999;5.632494599999999
+4212;Vegårshei;Myra;Agder;Myra, Vegårshei, Agder;58.7492278;8.8623911
+4224;Åseral;Kyrkjebygda;Agder;Kyrkjebygda, Åseral, Agder;58.61523450000001;7.4139142
+1121;Time;Bryne;Rogaland;Bryne, Time, Rogaland;58.73579299999999;5.6477347
+4201;Risør;Risør;Agder;Risør, Risør, Agder;58.7203045;9.2327429
+1114;Bjerkreim;Vikeså;Rogaland;Vikeså, Bjerkreim, Rogaland;58.6375907;6.0913457
+4213;Tvedestrand;Tvedestrand;Agder;Tvedestrand, Tvedestrand, Agder;58.6222843;8.9313989
+1119;Hå;Varhaug;Rogaland;Varhaug, Hå, Rogaland;58.61470999999999;5.6457294
+4219;Evje og Hornnes;Evje;Agder;Evje, Evje og Hornnes, Agder;58.5819568;7.7942706
+4214;Froland;Blakstad;Agder;Blakstad, Froland, Agder;58.5053624;8.642882600000002
+1112;Lund;Moi;Rogaland;Moi, Lund, Rogaland;58.46091560000001;6.5443761
+4203;Arendal;Arendal;Agder;Arendal, Arendal, Agder;58.4617568;8.7724499
+1101;Eigersund;Egersund;Rogaland;Egersund, Eigersund, Rogaland;58.4514216;5.9998032
+4218;Iveland;Birketveit;Agder;Birketveit, Iveland, Agder;58.46246379999999;7.912011700000001
+4226;Hægebostad;Tingvatn;Agder;Tingvatn, Hægebostad, Agder;58.39607700000001;7.227532500000001
+4216;Birkenes;Birkeland;Agder;Birkeland, Birkenes, Agder;58.3281028;8.2322109
+4227;Kvinesdal;Liknes;Agder;Liknes, Kvinesdal, Agder;58.312111;6.9620399
+1111;Sokndal;Hauge;Rogaland;Hauge, Sokndal, Rogaland;58.3419695;6.2850375
+4202;Grimstad;Grimstad;Agder;Grimstad, Grimstad, Agder;58.3421402;8.594457000000002
+4207;Flekkefjord;Flekkefjord;Agder;Flekkefjord, Flekkefjord, Agder;58.2971823;6.6599809
+4223;Vennesla;Vennesla;Agder;Vennesla, Vennesla, Agder;58.2682449;7.9736069
+4215;Lillesand;Lillesand;Agder;Lillesand, Lillesand, Agder;58.252637;8.3721451
+4225;Lyngdal;Alleen;Agder;Alleen, Lyngdal, Agder;58.1490409;7.1443393
+4204;Kristiansand;Kristiansand;Agder;Kristiansand, Kristiansand, Agder;58.15991189999999;8.0182064
+4206;Farsund;Farsund;Agder;Farsund, Farsund, Agder;58.09492689999999;6.8050196
+4205;Lindesnes;Mandal;Agder;Mandal, Lindesnes, Agder;58.0276808;7.4533303
