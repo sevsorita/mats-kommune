@@ -33,21 +33,24 @@ def get_distance_matrix(origins, destinations, mode="driving"):
         dict: {origin: {destination: {'distance': ..., 'duration': ...}}}
     """
     cache_path = _matrix_cache_path(origins, destinations, mode)
+
     if os.path.exists(cache_path):
         with open(cache_path, "r") as f:
-            return json.load(f)
-    load_dotenv()
-    api_key = os.getenv("GOOGLE_MAPS_API_KEY")
-    if not api_key:
-        raise ValueError("GOOGLE_MAPS_API_KEY not found in .env")
+            matrix_response = json.load(f)
+    else:
+        load_dotenv()
+        api_key = os.getenv("GOOGLE_MAPS_API_KEY")
+        if not api_key:
+            raise ValueError("GOOGLE_MAPS_API_KEY not found in .env")
 
-    gmaps = googlemaps.Client(key=api_key)
-    matrix_response = gmaps.distance_matrix(origins, destinations, mode=mode)
-
+        gmaps = googlemaps.Client(key=api_key)
+        matrix_response = gmaps.distance_matrix(origins, destinations, mode=mode)
+        with open(cache_path, "w") as f:
+            json.dump(matrix_response, f)
     result = {}
-    for i, origin in enumerate(matrix_response["origin_addresses"]):
+    for i, origin in enumerate(origins):
         result[origin] = {}
-        for j, destination in enumerate(matrix_response["destination_addresses"]):
+        for j, destination in enumerate(destinations):
             element = matrix_response["rows"][i]["elements"][j]
             if element["status"] == "OK":
                 result[origin][destination] = {
@@ -56,8 +59,7 @@ def get_distance_matrix(origins, destinations, mode="driving"):
                 }
             else:
                 result[origin][destination] = {"error": element["status"]}
-    with open(cache_path, "w") as f:
-        json.dump(result, f)
+    
     return result
 
 
@@ -87,6 +89,8 @@ def get_distance_matrix_batched(origins, destinations, mode="driving", batch_siz
             batch_dest_indices = dest_indices[k : k + batch_size]
             batch_destinations = [destinations[j] for j in batch_dest_indices]
             batch_origins = [origins[i]]
+            print(f"Processing batch: {batch_origins} -> {batch_destinations}")
+            print(f"          index {i}, batch {k // batch_size + 1} of {len(dest_indices) // batch_size + 1}")
             batch_result = get_distance_matrix(batch_origins, batch_destinations, mode)
             origin_addr = list(batch_result.keys())[0]
             if origin_addr not in result:
