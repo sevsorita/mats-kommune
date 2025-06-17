@@ -5,10 +5,14 @@ description = "Default template for PDM package"
 authors = [
     {name = "Mats", email = "mats"},
 ]
-dependencies = ["googlemaps>=4.10.0", "black>=25.1.0", "python-dotenv>=1.1.0"]
+dependencies = ["googlemaps>=4.10.0", "black>=25.1.0", "python-dotenv>=1.1.0", "ipykernel>=6.29.5", "pandas>=2.2.3", "geopandas>=1.1.0", "folium>=0.20.0", "matplotlib>=3.10.3", "mapclassify>=2.9.0", "ruff>=0.12.0"]
 requires-python = "==3.13.*"
 readme = "README.md"
 license = {text = "MIT"}
+
+[tool.pdm.scripts]
+format.cmd = "ruff format"
+lint.cmd = "ruff check"
 
 
 [tool.pdm]
