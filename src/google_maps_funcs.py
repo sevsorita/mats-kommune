@@ -1,6 +1,7 @@
 import googlemaps
 from dotenv import load_dotenv
 import os
+import pandas as pd
 import hashlib
 import json
 
@@ -85,12 +86,12 @@ def get_distance_matrix_batched(origins, destinations, mode="driving", batch_siz
         if not dest_indices:
             continue
         # Batch destinations for this origin
+        if i % 10 == 0:
+            print(f"Processing origin {i + 1} of {n}: {origins[i]}")
         for k in range(0, len(dest_indices), batch_size):
             batch_dest_indices = dest_indices[k : k + batch_size]
             batch_destinations = [destinations[j] for j in batch_dest_indices]
             batch_origins = [origins[i]]
-            print(f"Processing batch: {batch_origins} -> {batch_destinations}")
-            print(f"          index {i}, batch {k // batch_size + 1} of {len(dest_indices) // batch_size + 1}")
             batch_result = get_distance_matrix(batch_origins, batch_destinations, mode)
             origin_addr = list(batch_result.keys())[0]
             if origin_addr not in result:
@@ -98,6 +99,45 @@ def get_distance_matrix_batched(origins, destinations, mode="driving", batch_siz
             for dest_addr in batch_result[origin_addr]:
                 result[origin_addr][dest_addr] = batch_result[origin_addr][dest_addr]
     return result
+
+
+def unpack_distance_matrix_dict(matrix_dict):
+    """
+    Unpacks a distance matrix dictionary into a pandas DataFrame. Columns are destinations (lng,lat), rows are origins (lng,lat).
+    """
+    # Get all unique origins and destinations
+    origins = list(matrix_dict.keys())
+    destinations = set()
+    for dests in matrix_dict.values():
+        destinations.update(dests.keys())
+    destinations = sorted(destinations)
+
+    # Build DataFrame
+    distance_data = []
+    time_data = []
+    for origin in origins:
+        distance_row = []
+        time_row = []
+        for destination in destinations:
+            entry = matrix_dict[origin].get(destination, {})
+            if 'distance' in entry:
+                distance_row.append(entry['distance'])
+            else:
+                distance_row.append(None)
+            if 'duration' in entry:
+                time_row.append(entry['duration'])
+            else:
+                time_row.append(None)
+        distance_data.append(distance_row)
+        time_data.append(time_row)
+    distance_df = pd.DataFrame(distance_data, index=origins, columns=destinations)
+    distance_df.index.name = 'Origin'
+    distance_df.columns.name = 'Destination'
+    time_df = pd.DataFrame(time_data, index=origins, columns=destinations)
+    time_df.index.name = 'Origin'
+    time_df.columns.name = 'Destination'
+    
+    return distance_df, time_df
 
 
 def get_coordinates(locations):
